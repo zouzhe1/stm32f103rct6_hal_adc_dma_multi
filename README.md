@@ -1,0 +1,9 @@
+# stm32f103rct6_hal_adc_dma_multi
+stm32f103rct6_hal_adc_dma_multi
+
+2020.12.30
+本工程是准备制作微软模拟飞行2020飞行摇杆的准备
+stm32f103rct6
+使用stm32cube生成的
+ADC多路采集+DMA
+printf打印串口
